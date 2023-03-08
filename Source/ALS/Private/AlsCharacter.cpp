@@ -14,7 +14,7 @@
 #include "Utility/AlsUtility.h"
 
 #include UE_INLINE_GENERATED_CPP_BY_NAME(AlsCharacter)
-
+//ss
 namespace AlsCharacterConstants
 {
 	inline static constexpr auto TeleportDistanceThresholdSquared{FMath::Square(50.0f)};
